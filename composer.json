@@ -1,5 +1,5 @@
 {
-    "name": "m.benhenda/ebay-api",
+    "name": "medyes/ebay-api",
     "description": "uses ebay API to access to search capabilities on the eBay platform",
     "type": "library",
     "keywords": [
