@@ -1,6 +1,16 @@
 {
     "name": "m.benhenda/ebay-api",
-    "description": "use ebay API",
+    "description": "uses ebay API to access to search capabilities on the eBay platform",
+    "type": "library",
+    "keywords": [
+        "ebay",
+        "api",
+        "shopping",
+        "finding",
+        "trading",
+        "merchandising"
+    ],
+    "homepage": "https://github.com/medyes/ebay-api",
     "require": {
         "php": ">=5.4.0",
         "jms/serializer-bundle": "~0.13"
