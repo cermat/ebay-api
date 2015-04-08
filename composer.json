@@ -14,8 +14,6 @@
     "homepage": "https://github.com/medyes/ebay-api",
     "minimum-stability": "stable",
     "require": {
-        "php": ">=5.4.0",
-        "jms/serializer-bundle": "~0.13"
     },
     "license": "MIT",
     "authors": [
