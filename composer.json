@@ -25,10 +25,4 @@
         "psr-4": {
             "Myw\\EbayApiBundle\\": "Myw/EbayApiBundle"
         }
-    },
-    "require-dev": {
-        "twig/twig": "~1.5",
-        "phpunit/phpunit": "4.4.*",
-        "symfony/var-dumper": "3.0.*@dev"
     }
-}
