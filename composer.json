@@ -1,0 +1,21 @@
+{
+    "name": "m.benhenda/ebay-api",
+    "description": "use ebay API",
+    "require": {
+        "php": ">=5.4.0",
+        "jms/serializer-bundle": "~0.13"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohamed Ben Henda",
+            "email": "benhenda.med@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Myw\\EbayApiBundle\\": "Myw/EbayApiBundle"
+        }
+    },
+    "minimum-stability": "dev"
+}
