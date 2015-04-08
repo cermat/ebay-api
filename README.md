@@ -6,15 +6,16 @@ uses ebay API to access to search capabilities on the eBay platform
 
 ###### Add EbayApiBundle in your composer.json:
 
-```{
-    "require": {
-       "require medyes/ebay-api": "dev-master"
-    }
-}```
+    `{
+        "require": {
+            "require medyes/ebay-api": "dev-master"
+        }
+    }`
 
 ##Configuration
 ### app/config/config.yml
 myw_ebay_api:
+
     auth_token: %token_api_ebay%
     sandbox:
         dev_id: xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
@@ -26,5 +27,5 @@ myw_ebay_api:
         cert_name: xxxxxxxx-xxxx-xxxx-xxx-xxxxxxxxxxxx
 
 ### parameter.yml
-...
-token_api_ebay: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+token_api_ebay: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
