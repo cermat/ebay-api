@@ -12,8 +12,7 @@
     ],
     "homepage": "https://github.com/medyes/ebay-api",
     "minimum-stability": "dev",
-    "require": {
-    },
+    "require": {},
     "license": "MIT",
     "authors": [
         {
@@ -26,3 +25,4 @@
             "Myw\\EbayApiBundle\\": "Myw/EbayApiBundle"
         }
     }
+}
