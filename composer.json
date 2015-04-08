@@ -6,9 +6,10 @@
         "ebay",
         "api",
         "shopping",
+        "merchandising",
         "finding",
-        "trading",
-        "merchandising"
+        "trading"
+
     ],
     "homepage": "https://github.com/medyes/ebay-api",
     "minimum-stability": "stable",
