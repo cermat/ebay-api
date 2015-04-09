@@ -8,7 +8,7 @@ uses ebay API to access to search capabilities on the eBay platform
 
     `{
         "require": {
-            "require medyes/ebay-api": "dev-master"
+            "require medyes/ebay-api": "~0.1" 
         }
     }`
 
